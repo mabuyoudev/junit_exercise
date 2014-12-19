@@ -1,4 +1,4 @@
-package junit_excersize.ex01;
+package junit_exercise.ex01;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

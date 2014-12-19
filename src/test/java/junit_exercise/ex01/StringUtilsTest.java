@@ -1,7 +1,8 @@
-package junit_excersize.ex01;
+package junit_exercise.ex01;
 
 import static org.hamcrest.CoreMatchers.*;
 import static org.junit.Assert.*;
+import junit_exercise.ex01.StringUtils;
 
 import org.junit.Test;
 
